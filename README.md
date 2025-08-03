@@ -7,3 +7,8 @@
 
 
 1. Вектор сдвига $(-3000\  0 \ 0)^T.$
+
+
+Результаты сопоставления:
+![левое изображение](data/frame_70_left_rectified_with_grid.png)
+![правое изображение](data/frame_70_right_rectified_with_grid.png)
